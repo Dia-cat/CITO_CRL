@@ -1,2 +1,2 @@
 # CITO_CRL
-CITO_CRL/_image/CITO_CRL1_OCplx.PNG
+![image](https://github.com/Dia-cat/CITO_CRL/blob/main/_image/CITO_CRL1_OCplx.PNG)
